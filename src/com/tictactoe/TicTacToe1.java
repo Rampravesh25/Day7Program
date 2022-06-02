@@ -3,7 +3,7 @@ package com.tictactoe;
 public class TicTacToe1 {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to this  program :-");
+        System.out.println("Welcome to this  program");
 
         char[] ch = new char[10];
         TicTacToe1 tic1 = new TicTacToe1();
